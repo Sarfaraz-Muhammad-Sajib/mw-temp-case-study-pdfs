@@ -1,0 +1,51 @@
+[
+  {
+    "title": "n8n Mediusware",
+    "slug": "n8n-mediusware",
+    "pdf": "n8n-mediusware-case-study.pdf",
+    "size": 53137,
+    "live": "https://n8n.mediusware.com"
+  },
+  {
+    "title": "KuCoin",
+    "slug": "kucoin",
+    "pdf": "kucoin-case-study.pdf",
+    "size": 53752,
+    "live": "https://www.kucoin.com/"
+  },
+  {
+    "title": "Kaspa",
+    "slug": "kaspa",
+    "pdf": "kaspa-case-study.pdf",
+    "size": 53125,
+    "live": "https://kaspa.org/"
+  },
+  {
+    "title": "Euler Desktop",
+    "slug": "euler-desktop",
+    "pdf": "euler-desktop-case-study.pdf",
+    "size": 53122,
+    "live": "https://euler.mediusware.xyz/"
+  },
+  {
+    "title": "Weightmania Desktop",
+    "slug": "weightmania-desktop",
+    "pdf": "weightmania-desktop-case-study.pdf",
+    "size": 53159,
+    "live": "https://weightmania.com/free-downloads/"
+  },
+  {
+    "title": "elunic",
+    "slug": "elunic",
+    "pdf": "elunic-case-study.pdf",
+    "size": 53035,
+    "live": "https://www.elunic.com/en"
+  },
+  {
+    "title": "Odoo Wallet Bridge",
+    "slug": "odoo-wallet-bridge",
+    "pdf": "odoo-wallet-bridge-case-study.pdf",
+    "size": 53307,
+    "live": "https://www.kucoin.com/"
+  }
+]
