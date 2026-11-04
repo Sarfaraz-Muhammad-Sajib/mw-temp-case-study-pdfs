@@ -1,0 +1,1192 @@
+{
+  "skipped": [
+    "https://detectorwarehouse.com",
+    "https://modernlights.com",
+    "https://Harnyss.ai",
+    "https://www.medefy.com/",
+    "https://ourstoryz.com",
+    "https://oglasnik.hr/"
+  ],
+  "projects": [
+    {
+      "title": "Bhandal Dental",
+      "slug": "bhandal-dental",
+      "live": "https://www.bhandaldental.co.uk/",
+      "industry": "Healthcare",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "bhandal-dental-case-study.pdf",
+      "size": 53332,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Visily Board",
+      "slug": "visily-board",
+      "live": "https://app.visily.ai/projects/0c7ebccf-09d7-48f4-bca4-235abf74a039/boards/854059",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "visily-board-case-study.pdf",
+      "size": 52948,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Baby Bubble Store",
+      "slug": "baby-bubble-store",
+      "live": "https://www.babybubblestore.com/",
+      "industry": "Retail",
+      "child_service": "Shopify",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "baby-bubble-store-case-study.pdf",
+      "size": 53331,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Baby Smart",
+      "slug": "baby-smart",
+      "live": "https://babiesmart.com.au/",
+      "industry": "Retail",
+      "child_service": "Shopify",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "baby-smart-case-study.pdf",
+      "size": 53308,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Baby Bee Online",
+      "slug": "baby-bee-online",
+      "live": "https://babybeeonline.com/",
+      "industry": "Retail",
+      "child_service": "Shopify",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "baby-bee-online-case-study.pdf",
+      "size": 53296,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Wonderbly",
+      "slug": "wonderbly",
+      "live": "https://www.wonderbly.com/",
+      "industry": "Retail",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "wonderbly-case-study.pdf",
+      "size": 52534,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Turnkey Ops",
+      "slug": "turnkey-ops",
+      "live": "https://turnkeyops.io",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "turnkey-ops-case-study.pdf",
+      "size": 53337,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Ethen Ostroff Law",
+      "slug": "ethen-ostroff-law",
+      "live": "https://ethenostrofflaw.com/",
+      "industry": "Finance",
+      "child_service": "WordPress",
+      "tech_ids": [
+        4
+      ],
+      "pdf": "ethen-ostroff-law-case-study.pdf",
+      "size": 53420,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Attorney Assistant",
+      "slug": "attorney-assistant",
+      "live": "https://attorneyassistant.com/",
+      "industry": "Finance",
+      "child_service": "WordPress",
+      "tech_ids": [
+        4
+      ],
+      "pdf": "attorney-assistant-case-study.pdf",
+      "size": 53079,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Zameen",
+      "slug": "zameen",
+      "live": "https://zameen.com",
+      "industry": "Real Estate",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "zameen-case-study.pdf",
+      "size": 52810,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Orders.co",
+      "slug": "orders-co",
+      "live": "https://orders.co",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "orders-co-case-study.pdf",
+      "size": 52695,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "SpotHopper",
+      "slug": "spothopper",
+      "live": "https://www.spothopperapp.com",
+      "industry": "Entertainment",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "spothopper-case-study.pdf",
+      "size": 52894,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Avenue 180",
+      "slug": "avenue-180",
+      "live": "https://www.avenue180.com/",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "avenue-180-case-study.pdf",
+      "size": 53452,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "ThreeSixtyEight",
+      "slug": "threesixtyeight",
+      "live": "https://www.threesixtyeight.com/",
+      "industry": "Martech",
+      "child_service": "Webflow",
+      "tech_ids": [
+        119,
+        4
+      ],
+      "pdf": "threesixtyeight-case-study.pdf",
+      "size": 53115,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "ItsWorthMore",
+      "slug": "itsworthmore",
+      "live": "https://itsworthmore.com",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "itsworthmore-case-study.pdf",
+      "size": 52773,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Ping Marketing Team",
+      "slug": "ping-marketing-team",
+      "live": "https://www.pingmarketingteam.com",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "ping-marketing-team-case-study.pdf",
+      "size": 52677,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Vendasta",
+      "slug": "vendasta",
+      "live": "https://www.vendasta.com/",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "vendasta-case-study.pdf",
+      "size": 52576,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Simpelfix Ferry",
+      "slug": "simpelfix-ferry",
+      "live": "https://ferry2.simpelfix.ch/",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "simpelfix-ferry-case-study.pdf",
+      "size": 52697,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Filip Postek",
+      "slug": "filip-postek",
+      "live": "https://filippostek.com",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "filip-postek-case-study.pdf",
+      "size": 52646,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "ADRA Handbook",
+      "slug": "adra-handbook",
+      "live": "https://handbook.adra.dev/",
+      "industry": "Non-Profit",
+      "child_service": "Web Development",
+      "tech_ids": [
+        156,
+        4,
+        9
+      ],
+      "pdf": "adra-handbook-case-study.pdf",
+      "size": 52982,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "OWASP Top Ten",
+      "slug": "owasp-top-ten",
+      "live": "https://owasp.org/www-project-top-ten/",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "owasp-top-ten-case-study.pdf",
+      "size": 53440,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "CBCZ",
+      "slug": "cbcz",
+      "live": "https://www.cbcz.io/",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "cbcz-case-study.pdf",
+      "size": 53170,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "OurStoryz Education",
+      "slug": "ourstoryz-education",
+      "live": "https://education.ourstoryz.com",
+      "industry": "Education",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "ourstoryz-education-case-study.pdf",
+      "size": 52830,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Untitled UI",
+      "slug": "untitled-ui",
+      "live": "https://www.untitledui.com/",
+      "industry": "Martech",
+      "child_service": "Webflow",
+      "tech_ids": [
+        119,
+        4
+      ],
+      "pdf": "untitled-ui-case-study.pdf",
+      "size": 52869,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Hustle in Heels Global",
+      "slug": "hustle-in-heels-global",
+      "live": "https://hustleinheelsglobal.com",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "hustle-in-heels-global-case-study.pdf",
+      "size": 52942,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Demand Justice Chicago Shop",
+      "slug": "demand-justice-chicago-shop",
+      "live": "https://demandjusticechicago.com/shop",
+      "industry": "Finance",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "demand-justice-chicago-shop-case-study.pdf",
+      "size": 52784,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "ScreenRec",
+      "slug": "screenrec",
+      "live": "https://screenrec.com/screen-recorder/",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "screenrec-case-study.pdf",
+      "size": 53104,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Zcal AdOps",
+      "slug": "zcal-adops",
+      "live": "https://zcal.co/adopsio/30min",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "zcal-adops-case-study.pdf",
+      "size": 52635,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Sarolta Designs",
+      "slug": "sarolta-designs",
+      "live": "https://designs.sarolta.net",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "sarolta-designs-case-study.pdf",
+      "size": 52625,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Baukor",
+      "slug": "baukor",
+      "live": "https://baukor.com",
+      "industry": "Construction",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "baukor-case-study.pdf",
+      "size": 53048,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Tweepy",
+      "slug": "tweepy",
+      "live": "https://tweepy.org",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "tweepy-case-study.pdf",
+      "size": 52514,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "MemberPress",
+      "slug": "memberpress",
+      "live": "https://memberpress.com",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "memberpress-case-study.pdf",
+      "size": 53586,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "LearnDash",
+      "slug": "learndash",
+      "live": "https://learndash.com",
+      "industry": "Education",
+      "child_service": "WordPress",
+      "tech_ids": [
+        4
+      ],
+      "pdf": "learndash-case-study.pdf",
+      "size": 53063,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Call Mattioni",
+      "slug": "call-mattioni",
+      "live": "https://www.callmattioni.com/",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "call-mattioni-case-study.pdf",
+      "size": 53492,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Benjamin Franklin Plumbing",
+      "slug": "benjamin-franklin-plumbing",
+      "live": "https://www.benjaminfranklinplumbing.com/",
+      "industry": "Construction",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "benjamin-franklin-plumbing-case-study.pdf",
+      "size": 53372,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Pipe Medic Wichita",
+      "slug": "pipe-medic-wichita",
+      "live": "https://www.pipemedicwichita.com/",
+      "industry": "Construction",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "pipe-medic-wichita-case-study.pdf",
+      "size": 53321,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Nuvo Science",
+      "slug": "nuvo-science",
+      "live": "https://Nuvoscience.com",
+      "industry": "Healthcare",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "nuvo-science-case-study.pdf",
+      "size": 52625,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Bill TopUp",
+      "slug": "bill-topup",
+      "live": "https://billtopup.com",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        4
+      ],
+      "pdf": "bill-topup-case-study.pdf",
+      "size": 52903,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Acuity Scheduling",
+      "slug": "acuity-scheduling",
+      "live": "https://app.acuityscheduling.com/",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "acuity-scheduling-case-study.pdf",
+      "size": 52676,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "ADHD One",
+      "slug": "adhd-one",
+      "live": "https://www.adhdone.team/",
+      "industry": "Healthcare",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "adhd-one-case-study.pdf",
+      "size": 52781,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Vocalign",
+      "slug": "vocalign",
+      "live": "https://vocalign.co/",
+      "industry": "Healthcare",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "vocalign-case-study.pdf",
+      "size": 52658,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "WhatCMS",
+      "slug": "whatcms",
+      "live": "https://whatcms.org",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "whatcms-case-study.pdf",
+      "size": 53373,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Discount Dragon",
+      "slug": "discount-dragon",
+      "live": "https://discountdragon.co.uk/cart/",
+      "industry": "Entertainment",
+      "child_service": "Shopify",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "discount-dragon-case-study.pdf",
+      "size": 53455,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "NullSquare",
+      "slug": "nullsquare",
+      "live": "https://NullSquare.net",
+      "industry": "Martech",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "nullsquare-case-study.pdf",
+      "size": 53622,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Website Speedy",
+      "slug": "website-speedy",
+      "live": "https://websitespeedy.com/",
+      "industry": "Martech",
+      "child_service": "Webflow",
+      "tech_ids": [
+        119,
+        4
+      ],
+      "pdf": "website-speedy-case-study.pdf",
+      "size": 53282,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Jewel Cars",
+      "slug": "jewel-cars",
+      "live": "https://www.jewelcars.co.uk/",
+      "industry": "Entertainment",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "jewel-cars-case-study.pdf",
+      "size": 53431,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "SkillCamp VR",
+      "slug": "skillcamp-vr",
+      "live": "https://www.skillcampvr.com/",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "skillcamp-vr-case-study.pdf",
+      "size": 53411,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Greenworks Construction",
+      "slug": "greenworks-construction",
+      "live": "https://greenworksconstruction.com",
+      "industry": "Construction",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "greenworks-construction-case-study.pdf",
+      "size": 53506,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "UIDO",
+      "slug": "uido",
+      "live": "https://uido.it",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "uido-case-study.pdf",
+      "size": 52666,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "AlumniMe",
+      "slug": "alumnime",
+      "live": "https://alumnime.it/",
+      "industry": "Education",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "alumnime-case-study.pdf",
+      "size": 52754,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Bomboniere La Rosa",
+      "slug": "bomboniere-la-rosa",
+      "live": "https://www.bombonierelarosa.it/",
+      "industry": "Retail",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "bomboniere-la-rosa-case-study.pdf",
+      "size": 53260,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "MC Bomboniere",
+      "slug": "mc-bomboniere",
+      "live": "https://mcbomboniere.it/",
+      "industry": "Retail",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "mc-bomboniere-case-study.pdf",
+      "size": 52598,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Scarpa Mondo",
+      "slug": "scarpa-mondo",
+      "live": "https://scarpamondo.it/",
+      "industry": "Entertainment",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "scarpa-mondo-case-study.pdf",
+      "size": 53302,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Where DJs Play",
+      "slug": "where-djs-play",
+      "live": "https://www.wheredjsplay.com",
+      "industry": "Entertainment",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "where-djs-play-case-study.pdf",
+      "size": 52819,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "DJLINK",
+      "slug": "djlink",
+      "live": "https://DJLINK.me",
+      "industry": "Entertainment",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "djlink-case-study.pdf",
+      "size": 53289,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Workforce",
+      "slug": "workforce",
+      "live": "https://Workforce.com",
+      "industry": "Entertainment",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "workforce-case-study.pdf",
+      "size": 52770,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "CoverMyMeds",
+      "slug": "covermymeds",
+      "live": "https://www.covermymeds.com/",
+      "industry": "Healthcare",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "covermymeds-case-study.pdf",
+      "size": 53233,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "The Product Dev",
+      "slug": "the-product-dev",
+      "live": "https://go.theproductdev.com/",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "the-product-dev-case-study.pdf",
+      "size": 52633,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Klone Colorado",
+      "slug": "klone-colorado",
+      "live": "https://klonecolorado.com/",
+      "industry": "Aviation",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "klone-colorado-case-study.pdf",
+      "size": 52623,
+      "fetch_ok": false,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Prime Cuts Nursery",
+      "slug": "prime-cuts-nursery",
+      "live": "https://www.primecutsnursery.com/",
+      "industry": "Real Estate",
+      "child_service": "Web Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "prime-cuts-nursery-case-study.pdf",
+      "size": 53453,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "HomeInvest SharePoint",
+      "slug": "homeinvest-sharepoint",
+      "live": "https://homeinvest.sharepoint.com/",
+      "industry": "Non-Profit",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "homeinvest-sharepoint-case-study.pdf",
+      "size": 52773,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Floorhouse",
+      "slug": "floorhouse",
+      "live": "https://floorhouse.de/",
+      "industry": "Construction",
+      "child_service": "WordPress",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "floorhouse-case-study.pdf",
+      "size": 53465,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "LVZ Analytica",
+      "slug": "lvz-analytica",
+      "live": "https://lvz.analytica.ch",
+      "industry": "Energy & Utilities",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "lvz-analytica-case-study.pdf",
+      "size": 53071,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Silverline USA",
+      "slug": "silverline-usa",
+      "live": "https://silverlineusa.com",
+      "industry": "Martech",
+      "child_service": "Web Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "silverline-usa-case-study.pdf",
+      "size": 52598,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Friendi",
+      "slug": "friendi",
+      "live": "https://Friendi.fi",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "friendi-case-study.pdf",
+      "size": 53194,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Moonio",
+      "slug": "moonio",
+      "live": "https://app.moonio.io",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "moonio-case-study.pdf",
+      "size": 52560,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Browse AI",
+      "slug": "browse-ai",
+      "live": "https://browse.ai",
+      "industry": "Martech",
+      "child_service": "Webflow",
+      "tech_ids": [
+        19,
+        21,
+        9,
+        4,
+        118
+      ],
+      "pdf": "browse-ai-case-study.pdf",
+      "size": 53165,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Care.Coach",
+      "slug": "care-coach",
+      "live": "https://www.care.coach/",
+      "industry": "Healthcare",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        4,
+        9
+      ],
+      "pdf": "care-coach-case-study.pdf",
+      "size": 52583,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    },
+    {
+      "title": "Kinde",
+      "slug": "kinde",
+      "live": "https://kinde.com/",
+      "industry": "Martech",
+      "child_service": "SaaS Development",
+      "tech_ids": [
+        156,
+        4,
+        9
+      ],
+      "pdf": "kinde-case-study.pdf",
+      "size": 53011,
+      "fetch_ok": true,
+      "active": false,
+      "skip_reason": null
+    }
+  ]
+}
