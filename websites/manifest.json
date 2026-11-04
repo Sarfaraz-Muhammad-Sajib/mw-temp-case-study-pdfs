@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Studio Dialect",
+    "slug": "studio-dialect",
+    "live": "https://studiodialect.com/",
+    "industry": "Entertainment",
+    "pdf": "studio-dialect-case-study.pdf",
+    "size": 53678,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Nfinite Paper",
+    "slug": "nfinite-paper",
+    "live": "https://nfinitepaper.com/",
+    "industry": "Manufacturing",
+    "pdf": "nfinite-paper-case-study.pdf",
+    "size": 53707,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Breakthrough Energy",
+    "slug": "breakthrough-energy",
+    "live": "https://www.breakthroughenergy.org/",
+    "industry": "Energy & Utilities",
+    "pdf": "breakthrough-energy-case-study.pdf",
+    "size": 53453,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Obsidian Assembly",
+    "slug": "obsidian-assembly",
+    "live": "https://obsidianassembly.com/",
+    "industry": "Entertainment",
+    "pdf": "obsidian-assembly-case-study.pdf",
+    "size": 53141,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "ICOMAT",
+    "slug": "icomat",
+    "live": "https://www.icomat.co.uk/",
+    "industry": "Aviation",
+    "pdf": "icomat-case-study.pdf",
+    "size": 53403,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Sutera",
+    "slug": "sutera",
+    "live": "https://www.sutera.ch/",
+    "industry": "Entertainment",
+    "pdf": "sutera-case-study.pdf",
+    "size": 53200,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Darknode",
+    "slug": "darknode",
+    "live": "https://www.darknode.army/en",
+    "industry": "Non-Profit",
+    "pdf": "darknode-case-study.pdf",
+    "size": 53386,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Aventura Dental Arts",
+    "slug": "aventura-dental-arts",
+    "live": "https://aventuradentalarts.com/",
+    "industry": "Healthcare",
+    "pdf": "aventura-dental-arts-case-study.pdf",
+    "size": 53437,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "ON.energy",
+    "slug": "on-energy",
+    "live": "https://www.on.energy/",
+    "industry": "Energy & Utilities",
+    "pdf": "on-energy-case-study.pdf",
+    "size": 53184,
+    "active": false,
+    "child_service": "Web Development"
+  },
+  {
+    "title": "Waabi",
+    "slug": "waabi",
+    "live": "https://waabi.ai/",
+    "industry": "Automotive & Mobility",
+    "pdf": "waabi-case-study.pdf",
+    "size": 53521,
+    "active": false,
+    "child_service": "Web Development"
+  }
+]
